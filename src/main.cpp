@@ -22,6 +22,6 @@ void loop() {
         Serial.print("Angle: ");
         Serial.print(angle);
         Serial.println(" degrees");
-        delay(500); // Wait for the servo to reach the position
+        delay(500); // Wait for the servo to reach the position.
     }
 }
